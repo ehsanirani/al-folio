@@ -8,8 +8,8 @@ profile:
   align: right
   image: ehsan_pic1.jpg
   address: >
-    <p>Currently full-time father and post-doc researcher at <a href="http://mdc-berlin.de">MDC</a></p>
-    <p>based in Berlin, Germany</p>
+    <p>Currently full-time father and post-doc researcher at <a href="http://mdc-berlin.de">MDC</a>,</p>
+    <p>based in Berlin , Germany</p>
 
 news: true
 social: true

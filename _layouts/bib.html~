@@ -87,11 +87,6 @@
   {% endif %}
   </span>
 
-  <span class="links">
-  {% if entry.desc %}
-    <p style="color: darkred; font-weight:bold;">{{ entry.desc }}</p>
-  {% endif %}
-  </span>
   <!-- Hidden abstract block -->
   {% if entry.abstract %}
   <span class="abstract hidden">
