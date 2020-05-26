@@ -8,11 +8,11 @@ profile:
   align: right
   image: ehsan_pic1.jpg
   address: >
-    <p>Currently full-time father and post-doc researcher at <a href="http://mdc-berlin.de">MDC</a></p>
-    <p>based in Berlin, Germany</p>
+    <p>Omid supervising his father's simulations!</p>
 
 news: true
 social: true
 ---
 
-Under construction
+Welcome to my personal page. I finished my studies in physics at [Georg-August-Universität Göttingen](http://www.uni-goettingen.de) and now are working as a post-doctoral researcher in the [Max Delbrück Center for Molecular Medicine](http://www.mdc-berlin.de) in Berlin, Germany. I am generally interested in science, computers, human related stuff like politics etc. Some of my research interests and science activities are listed in [projects](projects).
+ 
